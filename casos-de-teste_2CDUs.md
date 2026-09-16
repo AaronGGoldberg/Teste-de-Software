@@ -1,4 +1,4 @@
-# Plano de Testes — CDU024: Moderar Conviventes e CDU025: Analisar Denúncias
+# Casos de Testes — CDU024: Moderar Conviventes e CDU025: Analisar Denúncias
 
 ## 1. Introdução
 
@@ -14,11 +14,10 @@ Os testes do **CDU025 — Analisar Denúncias** verificam a fila de denúncias e
 
   * 📑 1.1 Visão geral
 * 🗂️ **2. Histórico de Revisões**
-* 🗂️ **3. Responsável pela escrita**
-* 🗂️ **4. Testes Funcionais**
+* 🗂️ **3. Testes Funcionais**
 
-  * 📑 4.1 CDU024 — Moderar Conviventes
-  * 📑 4.2 CDU025 — Analisar Denúncias
+  * 📑 3.1 CDU024 — Moderar Conviventes
+  * 📑 3.2 CDU025 — Analisar Denúncias
 
 ---
 
@@ -30,18 +29,9 @@ Os testes do **CDU025 — Analisar Denúncias** verificam a fila de denúncias e
 
 ---
 
-## 3. Responsável pela escrita
+# 3. Testes Funcionais
 
-| CDU                         | Responsável    |
-| :-------------------------- | :------------- |
-| CDU024. Moderar Conviventes | Aaron Goldberg |
-| CDU025. Analisar Denúncias  | Aaron Goldberg |
-
----
-
-# 4. Testes Funcionais
-
-## 4.1 CDU024 — Moderar Conviventes
+## 3.1 CDU024 — Moderar Conviventes
 
 ### Especificação do CDU
 
@@ -96,7 +86,7 @@ O limite numérico do CDU é a duração da restrição: `duracao_dias >= 1`. Pa
 
 ---
 
-## 4.2 CDU025 — Analisar Denúncias
+## 3.2 CDU025 — Analisar Denúncias
 
 ### Especificação do CDU
 
